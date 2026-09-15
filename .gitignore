@@ -1,0 +1,14 @@
+venv_lab02/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+results/
+report/*.docx
+report/*.pdf
+report/rendered/
+
+build_report.py
+validate_results.py
+test_convlstm_bounce.py
+
+workflow_compliance.md
